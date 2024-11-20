@@ -5,6 +5,7 @@ create table public.djangoapp_position
     description varchar(100) not null
 );
 
+
 alter table public.djangoapp_position
     owner to admin;
 
