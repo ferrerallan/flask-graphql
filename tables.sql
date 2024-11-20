@@ -6,6 +6,7 @@ create table public.djangoapp_position
 );
 
 
+
 alter table public.djangoapp_position
     owner to admin;
 
