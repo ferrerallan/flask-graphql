@@ -21,8 +21,8 @@ The API includes the following types:
 
 ### Prerequisites
 
-*   Docker
-*   Docker Compose
+*   Python3
+*   Database with tables created (tables.sql)
 
 ### Installation
 
